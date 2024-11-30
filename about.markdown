@@ -9,3 +9,5 @@ permalink: /about/
 - Guagnelli
 - So your full name is Guagnelli, Marco Guagnelli Guagnelli?
 - No!
+
+![Image](/assets/img/m1small.jpg)
