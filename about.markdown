@@ -4,13 +4,16 @@ title: About
 permalink: /about/
 ---
 
-<img align="left" width="150px" src="/assets/img/m1small.jpg" style="margin-right: 20px;" />
-- My name is Guagnelli, Marco Guagnelli
+<p>
+  <img align="left" width="150px" src="/assets/img/m1small.jpg" style="margin-right: 20px;" />
+- My name is Guagnelli, Marco Guagnelli.
 - And your surname?
-- Guagnelli
+- Guagnelli.
 - So your full name is Guagnelli, Marco Guagnelli Guagnelli?
-- No!
+- No! 
 
-<!--- should be commented out
-![Image](/assets/img/m1small.jpg)
--->
+(_adapted from Lillo & Greg, 601_)
+</p>
+
+
+
