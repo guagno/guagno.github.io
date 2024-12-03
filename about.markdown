@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img align="left" width="150px" src="/assets/img/m1small.jpg" />
+<img align="left" width="150px" src="/assets/img/m1small.jpg" style="margin-right: 20px;" />
 - My name is Guagnelli, Marco Guagnelli
 - And your surname?
 - Guagnelli
