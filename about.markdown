@@ -13,7 +13,7 @@ permalink: /about/
     <li> - So your full name is Guagnelli, Marco Guagnelli Guagnelli?</li>
     <li> - No! My name is... [<i>ad libitum</i>]</li> 
   </ul>
-  (<i>adapted from Lillo & Greg, <b>601</b></i>)
+  (<i>adapted from Lillo & Greg, <b>610</b></i>)
 </p>
 
 
