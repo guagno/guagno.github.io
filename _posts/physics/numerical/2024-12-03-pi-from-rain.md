@@ -10,3 +10,5 @@ title: "Pi greco dalla pioggia"
 **Nota** questa è una nota.
 
 </nota>
+
+> **Nota** anche questa è una nota.
