@@ -7,6 +7,7 @@ title: "Pi greco dalla pioggia"
 
 
 > **Nota** questa è una nota.
+> Spero di poterci mettere delle formule in LaTeX, tipo $$F = ma$$, oppure anche questa, $F = ma$.
 {: .nota}
 
-> **Nota 2** anche questa è una nota ma di altro tipo
+
