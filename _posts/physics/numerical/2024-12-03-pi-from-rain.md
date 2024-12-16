@@ -9,6 +9,7 @@ Questo è un po' di testo normale. Per esempio sto scrivendo un po' di cazzate.
 
 > Invece questa è una nota.
 > Spero di poterci mettere delle formule in LaTeX, tipo \\[F = ma\\], oppure anche questa, $F = ma$.
-{:title="Nota"}{: .nota}
+{: .nota}
+{:title="Nota"}
 
 
